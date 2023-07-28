@@ -25,8 +25,8 @@ h1 {
 }
 
 .seccion-oscura {
-  color: #392c56;
-  background-color: #ebc6e6;;
+  color: #07440a;
+  background-color: #87e4a3;
 }
 
 .seccion-clara {
@@ -65,10 +65,10 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f6bfff;
+  background-color: #87e4a3;
   min-height: 450px;
   text-align: center;
-  color: #dc65ce;
+  color: #12862f;
 }
 
 .hero-principal {
@@ -91,7 +91,7 @@ h1 {
 .sobre-mi {
   height: 500px;
   padding: 10px;
-  background-color: #51417b;
+  background-color: #07440a;
   color: white;
 }
 
